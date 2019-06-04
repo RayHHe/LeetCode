@@ -1,4 +1,5 @@
 # No.1/2019-06-04/5240 ms/13.8 MB
+
 class Solution:
     def twoSum(self, nums, target):
         for i in range(0,len(nums)):
